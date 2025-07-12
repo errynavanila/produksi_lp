@@ -2,7 +2,7 @@
 
 Program ini menggunakan metode Linear Programming (LP) untuk menyelesaikan masalah optimasi produksi.
 
-## Fungsi Objektif:
+## Fungsi Objektif: 
 Maksimalkan:
 Z = 40x + 30y  
 (untuk diubah menjadi masalah minimisasi: Min Z = -40x -30y)
